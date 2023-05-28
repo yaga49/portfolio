@@ -1,0 +1,26 @@
+.main{
+    height: 100vh;
+    background-color: #ee8cd3;
+}
+
+.container{
+    display: flex;
+
+    align-items: center;
+    justify-content: space-between;
+    border: 1px solid;
+    height: 100%;
+    width: 80%;
+    margin: 0 auto;
+    flex-wrap: wrap;
+}
+
+.greeting{
+    width: 300px;
+    background-color: #e6c4f5;
+}
+.photo{
+    width: 300px;
+    height: 400px;
+    background: #e6c4f5;
+}

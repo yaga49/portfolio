@@ -1,0 +1,30 @@
+.imgBlock{
+    background-color: #b268dc;
+    width: 100%;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.title{
+    background-color: #c8bbd0;
+}
+.works{
+    background-color: #c8bbd0;
+}
+.work{
+    width: 350px;
+    border: 1px solid;
+    text-align: center;
+}
+.imgContainer{
+    width: 100%;
+    height: 200px;
+    background-color: #ab97c0;
+
+}
+.description{
+    background-color: #c8bbd0 ;
+}
